@@ -1,0 +1,3 @@
+[submodule "main/lib/ical"]
+	path = main/lib/ical
+	url = https://github.com/libical/libical
